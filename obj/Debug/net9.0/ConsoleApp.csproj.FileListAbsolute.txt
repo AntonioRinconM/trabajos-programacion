@@ -1,0 +1,14 @@
+D:\TP PROGRAMACION\Repos\Laboratorio-6\ConsoleApp\bin\Debug\net9.0\ConsoleApp.exe
+D:\TP PROGRAMACION\Repos\Laboratorio-6\ConsoleApp\bin\Debug\net9.0\ConsoleApp.deps.json
+D:\TP PROGRAMACION\Repos\Laboratorio-6\ConsoleApp\bin\Debug\net9.0\ConsoleApp.runtimeconfig.json
+D:\TP PROGRAMACION\Repos\Laboratorio-6\ConsoleApp\bin\Debug\net9.0\ConsoleApp.dll
+D:\TP PROGRAMACION\Repos\Laboratorio-6\ConsoleApp\bin\Debug\net9.0\ConsoleApp.pdb
+D:\TP PROGRAMACION\Repos\Laboratorio-6\ConsoleApp\obj\Debug\net9.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\TP PROGRAMACION\Repos\Laboratorio-6\ConsoleApp\obj\Debug\net9.0\ConsoleApp.AssemblyInfoInputs.cache
+D:\TP PROGRAMACION\Repos\Laboratorio-6\ConsoleApp\obj\Debug\net9.0\ConsoleApp.AssemblyInfo.cs
+D:\TP PROGRAMACION\Repos\Laboratorio-6\ConsoleApp\obj\Debug\net9.0\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\TP PROGRAMACION\Repos\Laboratorio-6\ConsoleApp\obj\Debug\net9.0\ConsoleApp.dll
+D:\TP PROGRAMACION\Repos\Laboratorio-6\ConsoleApp\obj\Debug\net9.0\refint\ConsoleApp.dll
+D:\TP PROGRAMACION\Repos\Laboratorio-6\ConsoleApp\obj\Debug\net9.0\ConsoleApp.pdb
+D:\TP PROGRAMACION\Repos\Laboratorio-6\ConsoleApp\obj\Debug\net9.0\ConsoleApp.genruntimeconfig.cache
+D:\TP PROGRAMACION\Repos\Laboratorio-6\ConsoleApp\obj\Debug\net9.0\ref\ConsoleApp.dll
